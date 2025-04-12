@@ -1,0 +1,11 @@
+{
+    "java.import.gradle.java.home": "/usr/lib/jvm/msopenjdk-current",
+    "gradle.java.home": "/usr/lib/jvm/msopenjdk-current",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/usr/lib/jvm/msopenjdk-current",
+            "default": true
+        }
+    ]
+}
